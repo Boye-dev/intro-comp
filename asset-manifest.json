@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intro-comp/static/css/main.17117a6a.chunk.css",
+    "main.js": "/intro-comp/static/js/main.0587dcdf.chunk.js",
+    "main.js.map": "/intro-comp/static/js/main.0587dcdf.chunk.js.map",
+    "runtime-main.js": "/intro-comp/static/js/runtime-main.9fdf7fe8.js",
+    "runtime-main.js.map": "/intro-comp/static/js/runtime-main.9fdf7fe8.js.map",
+    "static/js/2.3728dd50.chunk.js": "/intro-comp/static/js/2.3728dd50.chunk.js",
+    "static/js/2.3728dd50.chunk.js.map": "/intro-comp/static/js/2.3728dd50.chunk.js.map",
+    "index.html": "/intro-comp/index.html",
+    "static/css/main.17117a6a.chunk.css.map": "/intro-comp/static/css/main.17117a6a.chunk.css.map",
+    "static/js/2.3728dd50.chunk.js.LICENSE.txt": "/intro-comp/static/js/2.3728dd50.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/intro-comp/static/media/bg-intro-desktop.059183ee.png",
+    "static/media/icon-error.b72f792e.svg": "/intro-comp/static/media/icon-error.b72f792e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fdf7fe8.js",
+    "static/js/2.3728dd50.chunk.js",
+    "static/css/main.17117a6a.chunk.css",
+    "static/js/main.0587dcdf.chunk.js"
+  ]
+}
